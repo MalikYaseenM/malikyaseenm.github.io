@@ -6,11 +6,8 @@
 
   Re-release / update: Fall, 2019
 
-  Randal Sean Harrison, Ph.D.
-  Website Developer
-  Employed: Hesburgh Libraries, University of Notre Dame
-  Contact: rharriso@nd.edu
-
+  Malik Yaseen, D.Phil.
+  Contact: yaseen.malik@pharm.ox.ac.uk
 
 /* Technologies, Credits  */
 
